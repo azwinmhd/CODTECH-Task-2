@@ -12,4 +12,5 @@ This analysis helps businesses target specific segments more effectively, improv
 
 
 Key Activities: Importing libraries, Clustering techniques, Analysis of segments, Visualization.
+
 Key Technologies used: Python pandas, matplotlib, DBSCAN Ml algorithm, K-means.
